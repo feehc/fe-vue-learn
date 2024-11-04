@@ -5,7 +5,7 @@
 <template>
   <div class="home-page">
     <div class="home-page-helmet">
-      <Marked content="# V3学习笔记" />
+      <Marked content="# Vue3学习笔记" />
     </div>
     <img src="../assets/logo.svg" alt="vue">
     <div class="aphorism">
