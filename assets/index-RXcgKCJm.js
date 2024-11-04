@@ -1,4 +1,4 @@
-import{d as n,c as r,u as e,_ as t,o}from"./index-DsJQc4Mb.js";const s=`## 1. 创建Vue3工程\r
+import{d as n,c as r,u as e,_ as t,o}from"./index-BElz9EfL.js";const s=`## 1. 创建Vue3工程\r
 \r
 **[基于vite创建](https://vitejs.cn/)**\r
 \r

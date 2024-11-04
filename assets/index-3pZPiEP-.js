@@ -1,4 +1,4 @@
-import{d as i,f as p,Z as m,$ as d,j as S,K as r,u as n,_ as t,G as l,a0 as h,o as f}from"./index-DsJQc4Mb.js";const C=`## 6. Pinia\r
+import{d as i,f as p,Z as m,$ as d,j as S,K as r,u as n,_ as t,G as l,a0 as h,o as f}from"./index-BElz9EfL.js";const C=`## 6. Pinia\r
 \r
 **[官方文档](https://pinia.vuejs.org/zh/)**\r
 \r
