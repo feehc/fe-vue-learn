@@ -1,4 +1,4 @@
-import{i as s,c as a,o,a as d,d as i,b as c,u}from"./index-DnNbA0GN.js";const p=["innerHTML"],l={__name:"Marked",props:{content:{type:String,required:!0}},setup(n){const r=s("$mdRender"),e=a(()=>{try{return r(n.content)}catch(t){console.error(t)}return""});return(t,f)=>(o(),d("div",{class:"markdown-preview",innerHTML:e.value},null,8,p))}},m=`## 1. 创建Vue3工程\r
+import{d as n,c as r,u as e,_ as t,o}from"./index-C6obVh88.js";const s=`## 1. 创建Vue3工程\r
 \r
 **[基于vite创建](https://vitejs.cn/)**\r
 \r
@@ -46,19 +46,4 @@ Done.\r
 cd <your-project-name>\r
 npm install\r
 npm run dev\r
-\`\`\`\r
-\r
-\`\`\`js\r
-const [modelValue, modelModifiers] = defineModel({\r
-  // get() 省略了，因为这里不需要它\r
-  set(value) {\r
-    // 如果使用了 .trim 修饰符，则返回裁剪过后的值\r
-    if (modelModifiers.trim) {\r
-      return value.trim()\r
-    }\r
-    // 否则，原样返回\r
-    return value\r
-  }\r
-})\r
-\`\`\`\r
-`,g=i({__name:"CreateProject",setup(n){return(r,e)=>(o(),c(l,{content:u(m)},null,8,["content"]))}});export{g as default};
+\`\`\``,c=n({__name:"index",setup(a){return(d,i)=>(o(),r(t,{content:e(s)},null,8,["content"]))}});export{c as default};
