@@ -1,4 +1,4 @@
-import{g as xr,a as Mn,r as S,b as Tr,u as i,e as Q,f as he,n as Z,w as L,i as Ce,h as Cr,d as P,o as m,j as E,k,l as Qe,m as Yt,p as Ir,N as Re,q as g,s as B,t as Pn,v as wt,x as Ze,y as qt,z as R,A as Ie,B as et,C as kr,D as Or,E as St,F as I,G as re,H as $,c as A,I as T,J as be,K as y,L as An,M as K,O as $r,P as Nn,T as Mr,Q as Pr,R as Rn,S as Fn,U as Ar,V as Nr,W as Rr,X as ke,Y as Oe,Z as Fr,$ as Dr,_ as ie,a0 as Lr}from"./index-C6obVh88.js";import{_ as fe}from"./CodeDemo-DOest0TM.js";const Br=`## 2. Vue3核心API\r
+import{g as xr,a as Mn,r as S,b as Tr,u as i,e as Q,f as he,n as Z,w as L,i as Ce,h as Cr,d as P,o as m,j as E,k,l as Qe,m as Yt,p as Ir,N as Re,q as g,s as B,t as Pn,v as wt,x as Ze,y as qt,z as R,A as Ie,B as et,C as kr,D as Or,E as St,F as I,G as re,H as $,c as A,I as T,J as be,K as y,L as An,M as K,O as $r,P as Nn,T as Mr,Q as Pr,R as Rn,S as Fn,U as Ar,V as Nr,W as Rr,X as ke,Y as Oe,Z as Fr,$ as Dr,_ as ie,a0 as Lr}from"./index-DsJQc4Mb.js";import{_ as fe}from"./CodeDemo-BZdEUjRv.js";const Br=`## 2. Vue3核心API\r
 \r
 **Options API与Composition API：**  \r
 \r
