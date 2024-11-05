@@ -11,6 +11,9 @@ UI整体采用VSCode插件 `Markdown Preview Enhanced` 中Vue的预览风格，D
 
 目前开发环境 `element-plus` 的按需引入每个组件在首次编译时，终端有大量警告输出，不影响网页展示，可以忽略。
 
+github静态网站预览地址：<https://feehc.github.io/fe-vue-learn/>
+项目采用history路由，github个人静态网站不支持路由代理配置，路由刷新导致页面404的问题可调整为hash路由即可避免。
+
 ## markdown解析核心代码
 
 **插件形式注入全局$mdRender()方法：**  
