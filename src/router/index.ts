@@ -42,6 +42,21 @@ const router = createRouter({
       name: '',
       component: () => import('@/views/6 Pinia/index.vue'),
     },
+    {
+      path: '/7',
+      name: '',
+      component: () => import('@/views/7 slot/index.vue'),
+    },
+    {
+      path: '/8',
+      name: '',
+      component: () => import('@/views/8 Teleport/index.vue'),
+    },
+    {
+      path: '/9',
+      name: '',
+      component: () => import('@/views/9 Suspense/index.vue'),
+    },
   ]
 })
 
