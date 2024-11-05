@@ -1,4 +1,4 @@
-import{a1 as d,o as l,j as f,V as p,a2 as R,u as o,k as m,t as v,M as g,G as _,c as T,I as w,K as c,d as D,f as k,Z as x,$ as y,_ as u,a0 as b}from"./index-BElz9EfL.js";import{_ as M}from"./CodeDemo-BDI_ik0c.js";const h=`### 3.1 customRef\r
+import{a1 as d,o as l,j as f,V as p,a2 as R,u as o,k as m,t as v,M as g,G as _,c as T,I as w,K as c,d as D,f as k,Z as x,$ as y,_ as u,a0 as b}from"./index-BQ9Zdwzy.js";import{_ as M}from"./CodeDemo-DVESjxSB.js";const h=`### 3.1 customRef\r
 \r
 创建一个自定义的 \`ref\`，显式声明对其依赖追踪和更新触发的控制方式。\r
 \r
